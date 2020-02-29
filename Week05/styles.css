@@ -1,4 +1,4 @@
-body {
+.tops {
   background-color: powderblue;
   border: 10px solid powderblue;
   padding: 25px 50px 75px 200px;
@@ -6,7 +6,12 @@ body {
 }
 h1 {
   color:blue;
+  font-family: sans-serif;
 }
-p {
-
+.home{
+	padding:100px 50px 105px 900px;
+ 	background-color: yellow;
+ 	font-family: Arial;
+ 	font-size: 1.5em;
+ 	font-weight: lighter;
 }
