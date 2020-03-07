@@ -1,0 +1,17 @@
+.bg{
+	background-color: black;
+	color:white;
+	position: fixed;
+
+}
+
+.house{
+	background-color: white;
+	position:absolute;
+	
+	width:15em;
+	left: 30em;
+	color:black;
+	top: 15em;
+}
+
