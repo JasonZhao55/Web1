@@ -6,7 +6,9 @@
 .house{
 	background-color: white;
 	position:relative;
-	width:14.5em;
-	left: 15em;
+	padding-left: 10em;
+	width:16em;
+	padding-right: 10em;
+	left: 10em;
 }
 
