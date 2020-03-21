@@ -2,16 +2,24 @@
 	background-color: black;
 	color:white;
 	position: fixed;
+	word-wrap: break-word;
+
+
 
 }
 
 .house{
 	background-color: white;
 	position:absolute;
-	
+
 	width:15em;
-	left: 30em;
+
 	color:black;
-	top: 15em;
+}
+
+.hspot{
+	padding-top: 17em;
+	padding-left:50%;
+	position: relative;
 }
 
